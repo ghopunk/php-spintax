@@ -1,0 +1,26 @@
+{
+    "name": "ghopunk/php-spintaxt",
+    "description": "Spin String PHP",
+    "keywords": [
+        "ghopunk",
+        "php"
+    ],
+    "homepage": "https://github.com/ghopunk/php-spintaxt",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ghopunk",
+            "email": "support@bloggerpemalas.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+    },
+    "autoload": {
+        "psr-4": {
+            "ghopunk\\Spintax\\": "src"
+        }
+    },
+    "prefer-stable": true
+}
