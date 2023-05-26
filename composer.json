@@ -1,11 +1,11 @@
 {
-    "name": "ghopunk/php-spintaxt",
+    "name": "ghopunk/php-spintax",
     "description": "Spin String PHP",
     "keywords": [
         "ghopunk",
         "php"
     ],
-    "homepage": "https://github.com/ghopunk/php-spintaxt",
+    "homepage": "https://github.com/ghopunk/php-spintax",
     "license": "MIT",
     "authors": [
         {
