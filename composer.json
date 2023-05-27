@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ghopunk\\Spintax\\": "src"
+            "ghopunk\\Helpers\\": "src"
         }
     },
     "prefer-stable": true
