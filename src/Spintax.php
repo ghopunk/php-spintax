@@ -1,4 +1,5 @@
 <?php
+
 namespace ghopunk\Helpers;
 
 class Spintax{
@@ -47,5 +48,3 @@ class Spintax{
 		return $text;
 	}
 }
-
-?>
